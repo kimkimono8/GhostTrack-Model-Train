@@ -1,5 +1,6 @@
 *.zip
 
-datasets/*
-/*.jpg
-/*.txt
+datasets/
+*.jpg
+*.txt
+*.csv
