@@ -1,0 +1,6 @@
+# dataset.yaml สำหรับการเทรน YOLOv8
+train: E:/GhostTrack_YOLOv12n_Train/datasets/images/train  # โฟลเดอร์เก็บภาพฝึก
+val: E:/GhostTrack_YOLOv12n_Train/datasets/images/val    # โฟลเดอร์เก็บภาพทดสอบ
+
+nc: 4
+names: ['mycar', 'person', 'car', 'motorcycle']

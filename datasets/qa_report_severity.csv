@@ -1,0 +1,228 @@
+image,class_id,width_px,height_px,aspect_ratio,severity,issue,suggestion
+./labels/val/20250521_180854_951188_jpg.rf.65c74713c9db6a98ffabb5a815ce5b57.txt,1,67,195,2.89,ok,ok,
+./labels/val/20250518_214302_809287_jpg.rf.c37abc12c662a8f343159c332a0fc06a.txt,1,37,137,3.72,borderline,aspect ratio off,likely okay - verify
+./labels/val/00h11m08s959ms_jpg.rf.5507f7c2dc67f8628fa0c1a94dd4bb77.txt,1,40,151,3.77,borderline,aspect ratio off,likely okay - verify
+./labels/val/00h10m45s279ms_jpg.rf.16c3178ece38a41917504ca79a59e510.txt,1,29,112,3.81,borderline,aspect ratio off,likely okay - verify
+./labels/val/20250520_205105_177784_jpg.rf.4c3a979dfbb5d401715edf552b6b7ea2.txt,1,33,131,3.91,borderline,aspect ratio off,likely okay - verify
+./labels/val/00h08m17s279ms_jpg.rf.08de0a8f60b1851286c9c6ec896627b3.txt,1,43,160,3.72,borderline,aspect ratio off,likely okay - verify
+./labels/val/20250518_214429_273714_jpg.rf.5ad9b55167f859f1de9e7205d0092b45.txt,1,75,243,3.22,ok,ok,
+./labels/val/20250518_214303_162460_jpg.rf.27477cc569d245ef5917509fb859c0fe.txt,1,54,112,2.06,ok,ok,
+./labels/val/20250519_133606_703789_jpg.rf.28ac2e30f3c2fe1865af01c66665e344.txt,1,87,252,2.9,ok,ok,
+./labels/val/20250521_181501_959029_jpg.rf.ed8088047bf7e31cb388e4ef7687f305.txt,1,80,244,3.04,ok,ok,
+./labels/val/20250518_232759_558986_jpg.rf.e2c261ae78fd753b509b05b10f079374.txt,1,75,272,3.63,borderline,aspect ratio off,likely okay - verify
+./labels/val/20250521_181500_062334_jpg.rf.2e87a6f6fac7a14edba42ecc1f6b14f4.txt,1,80,186,2.33,ok,ok,
+./labels/val/20250520_205102_191806_jpg.rf.27bd945d6e2ab9741e60fdc82d64c616.txt,1,37,137,3.7,borderline,aspect ratio off,likely okay - verify
+./labels/val/20250520_205100_189490_jpg.rf.3c952ad26a9258d2d23ff69c585eb3fb.txt,1,42,156,3.71,borderline,aspect ratio off,likely okay - verify
+./labels/val/20250521_180933_431055_jpg.rf.02f49a55790ca2e3ab13009edaa325a6.txt,1,48,152,3.18,ok,ok,
+./labels/val/20250521_180857_569091_jpg.rf.9b0646744783950f9006d00b3f549d62.txt,1,25,99,3.88,borderline,aspect ratio off,likely okay - verify
+./labels/val/20250521_180859_538670_jpg.rf.f226f5dfa7fb7f70a840c22cab90d4ce.txt,1,38,140,3.68,borderline,aspect ratio off,likely okay - verify
+./labels/val/20250521_181503_013209_jpg.rf.c747b79a77f00cc96b64ee8301051f3e.txt,1,65,201,3.07,ok,ok,
+./labels/val/20250520_205106_908109_jpg.rf.f1e3cb7a1b4598232ef8aa74cd581788.txt,1,35,136,3.9,borderline,aspect ratio off,likely okay - verify
+./labels/val/20250520_205102_983251_jpg.rf.c05ed3c80b42b1129f086d0eb256f570.txt,1,28,134,4.8,moderate,aspect ratio off,check if tight
+./labels/val/20250520_205104_118721_jpg.rf.5f5e2e4706913e58fd4326d120828814.txt,1,27,134,4.96,moderate,aspect ratio off,check if tight
+./labels/val/20250521_180855_521553_jpg.rf.3f92ee15c6cf9973e78c2f1a17a1a286.txt,1,43,169,3.9,borderline,aspect ratio off,likely okay - verify
+./labels/val/20250521_181502_479626_jpg.rf.321c3a75afa4520b793f8d33e59a6c3e.txt,1,71,216,3.02,ok,ok,
+./labels/val/00h05m40s399ms_jpg.rf.c941cb6918e8a4d60e8508803f0e6f8b.txt,1,33,158,4.79,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205107_054655_jpg.rf.9b31c3f02e7c873c5a72d540e2ec5a14.txt,1,33,93,2.79,ok,ok,
+./labels/train/20250521_181525_160272_jpg.rf.5b71fabd6ac086d0fe6d7ca024488880.txt,1,60,118,1.95,ok,ok,
+./labels/train/20250521_181502_087940_jpg.rf.e50ece738785202f578203f4c66ca4b0.txt,1,63,236,3.72,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_181502_344936_jpg.rf.874efa3b8686b1bce3cee24325a93524.txt,1,67,224,3.32,ok,ok,
+./labels/train/00h27m55s359ms_jpg.rf.0847d51bccacf7cb7651605475d39e40.txt,1,49,110,2.26,ok,ok,
+./labels/train/20250521_180933_152023_jpg.rf.c35fedbb9b346699c012fe4af5551527.txt,1,33,143,4.28,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180933_152023_jpg.rf.c35fedbb9b346699c012fe4af5551527.txt,1,39,145,3.68,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250520_205105_739172_jpg.rf.d8473a17a063859a425dd3defb5ba730.txt,1,30,131,4.3,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205105_739172_jpg.rf.d8473a17a063859a425dd3defb5ba730.txt,1,30,144,4.82,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205105_938860_jpg.rf.972ea277a4aa1015c627a4c8e12c2976.txt,1,29,138,4.78,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205105_938860_jpg.rf.972ea277a4aa1015c627a4c8e12c2976.txt,1,35,135,3.82,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h08m46s879ms_jpg.rf.7ab3bf6f24cd3d525f03c22b98a3edb3.txt,1,30,133,4.45,moderate,aspect ratio off,check if tight
+./labels/train/20250515_013856_728106_jpg.rf.84b7b8c0431d56517b95765096ce2ad2.txt,1,22,89,3.96,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250520_205105_348231_jpg.rf.fa052cf96ba979639f7bc41b1d5c3063.txt,1,31,128,4.13,moderate,aspect ratio off,check if tight
+./labels/train/00h03m03s519ms_jpg.rf.47428415cc3738653b061120d54b5ee3.txt,1,35,141,3.99,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_180858_866333_jpg.rf.f8046f1d4ec83505c1d2356175e490e7.txt,1,31,149,4.82,moderate,aspect ratio off,check if tight
+./labels/train/00h07m53s599ms_jpg.rf.79600fe92f13eb8f6b79eef467960675.txt,1,26,128,4.94,moderate,aspect ratio off,check if tight
+./labels/train/00h05m13s759ms_jpg.rf.ed8408294964f756dfe4a5e99e471635.txt,1,31,140,4.44,moderate,aspect ratio off,check if tight
+./labels/train/00h10m03s839ms_jpg.rf.f7969aa60baca080734292b89d4651b7.txt,1,27,129,4.71,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180858_051780_jpg.rf.25e78f4ac9227d74cf8d411e40723cf3.txt,1,29,144,4.88,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205140_348424_jpg.rf.50cebbeb289b1683808f4012ffc4e741.txt,1,58,153,2.65,ok,ok,
+./labels/train/20250520_205140_348424_jpg.rf.50cebbeb289b1683808f4012ffc4e741.txt,1,43,164,3.81,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250519_213259_695531_jpg.rf.d0b05791ff870e650a11a2bbd245fb00.txt,1,73,171,2.34,ok,ok,
+./labels/train/00h08m02s479ms_jpg.rf.3a647a9d40f7e0b9dc0fb59e4a8eea55.txt,1,37,129,3.49,ok,ok,
+./labels/train/20250520_204949_554540_jpg.rf.8f83b1faa803130d06fc588d14cd221d.txt,1,47,200,4.22,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205139_928279_jpg.rf.0c3c2191c6a312050dbe3eb8a0664493.txt,1,37,177,4.8,moderate,aspect ratio off,check if tight
+./labels/train/20250519_133613_946429_jpg.rf.806ad05c60066263029afeead73ebbc9.txt,1,53,164,3.07,ok,ok,
+./labels/train/00h08m26s159ms_jpg.rf.d8729ca487e2bab782128accb8f00b67.txt,1,34,137,4.03,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181142_228409_jpg.rf.9e3a1c992ca06554aa2e47586c842108.txt,1,50,234,4.68,moderate,aspect ratio off,check if tight
+./labels/train/00h10m24s559ms_jpg.rf.b3c054dae5d57b0e473667b8bc1b36c6.txt,1,35,140,3.96,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h09m34s239ms_jpg.rf.d9d5e60adf3a1e0bf0e431afe7947c0a.txt,1,32,137,4.28,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180859_727002_jpg.rf.f8d8ad468cb866d95364c73efc64198b.txt,1,34,135,3.97,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250518_214302_990773_jpg.rf.aaf157fdf95a769c8a326be1583e65b4.txt,1,45,138,3.03,ok,ok,
+./labels/train/20250521_180858_335431_jpg.rf.e61f0fe2e680186dda0a829801d068a4.txt,1,32,141,4.41,moderate,aspect ratio off,check if tight
+./labels/train/00h10m06s799ms_jpg.rf.1b4a99d89f894066635d0d9d1e099eaf.txt,1,29,142,4.81,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180858_738216_jpg.rf.b2457359b52f17a93974013c7bf1de5c.txt,1,28,135,4.74,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205101_019067_jpg.rf.86a494d4136718b6d8cecab4fe3c3242.txt,1,29,147,4.98,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181501_530914_jpg.rf.6ce3f7426027ab179c00fb3232a38972.txt,1,58,257,4.4,moderate,aspect ratio off,check if tight
+./labels/train/20250520_204949_261538_jpg.rf.0d6d91773555160ab1b2d65d6ed6d790.txt,1,58,193,3.33,ok,ok,
+./labels/train/20250519_133603_677590_jpg.rf.f903ee7589e02e0e1acdf4065845ed07.txt,1,83,254,3.06,ok,ok,
+./labels/train/20250521_180933_569412_jpg.rf.c006ffe3c6dfc926101132fe3f1d0a3d.txt,1,34,160,4.65,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180933_569412_jpg.rf.c006ffe3c6dfc926101132fe3f1d0a3d.txt,1,45,96,2.12,ok,ok,
+./labels/train/20250521_181501_244507_jpg.rf.9a3c1dab2b325525ad461f778027413f.txt,1,54,258,4.73,moderate,aspect ratio off,check if tight
+./labels/train/20250519_213259_926978_jpg.rf.9fbc935f95dd9f3ea3e755d409d854eb.txt,1,71,258,3.63,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h09m04s639ms_jpg.rf.39122237e4c1f46988606b3c3e0a8f1d.txt,1,30,129,4.3,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181503_142525_jpg.rf.f32a290107605fed46db9fc0826a7d8b.txt,1,58,191,3.29,ok,ok,
+./labels/train/20250521_181457_099480_jpg.rf.037f03054dd3f03a8d1fb25509e92e63.txt,1,54,201,3.69,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h08m43s919ms_jpg.rf.c1e8f152755ca691bdf51b5a6961a5bf.txt,1,32,133,4.16,moderate,aspect ratio off,check if tight
+./labels/train/00h09m52s000ms_jpg.rf.219d17866e78f237b07212cad49849ad.txt,1,28,140,4.93,moderate,aspect ratio off,check if tight
+./labels/train/00h09m57s919ms_jpg.rf.c020240c59cc405414073632d0c8cd40.txt,1,28,134,4.72,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181456_198793_jpg.rf.80b599107fe9347f576d504899777ab1.txt,1,51,233,4.58,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181456_515370_jpg.rf.cd5a96055adb425a9da88ded3eeb01e5.txt,1,45,227,5.0,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181500_831121_jpg.rf.6409a1dc1320f2f23b4a8c97d1690c80.txt,1,46,189,4.11,moderate,aspect ratio off,check if tight
+./labels/train/00h02m57s599ms_jpg.rf.1b58e082df1f1c714090486d0347efc4.txt,1,36,140,3.84,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h09m01s679ms_jpg.rf.9d197bbee47e701df329adc841a8760c.txt,1,28,122,4.38,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180932_995562_jpg.rf.a99c289b7251ae6f4f07e226a0eb7549.txt,1,34,124,3.66,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_180932_995562_jpg.rf.a99c289b7251ae6f4f07e226a0eb7549.txt,1,38,140,3.68,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250520_205032_312424_jpg.rf.0bdce9960515de53e4f96a14148931d0.txt,1,69,308,4.44,moderate,aspect ratio off,check if tight
+./labels/train/00h05m25s599ms_jpg.rf.20ce50622a43e9b2db88a78a759c9e09.txt,1,36,157,4.38,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181502_754216_jpg.rf.6a84f9348b23ef383424ca3593c9c01b.txt,1,68,210,3.1,ok,ok,
+./labels/train/00h08m49s839ms_jpg.rf.8903bc693d1ef9f58c20557c2ec95f3a.txt,1,32,130,4.06,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181525_302108_jpg.rf.61d0c81528cbfdc773b52b0464fcdaad.txt,1,49,114,2.34,ok,ok,
+./labels/train/20250520_204721_011616_jpg.rf.17f9e31e56c081b54c87f68378fb15a8.txt,1,46,163,3.51,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h08m58s719ms_jpg.rf.ca56396b84fdcf1c9ca073f3ccec4881.txt,1,29,128,4.41,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205107_343666_jpg.rf.6074b25372ce482ca53eb9cd956c3684.txt,1,26,108,4.17,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181500_703898_jpg.rf.dc4dd0129027808c6e0df691c55f9700.txt,1,46,192,4.17,moderate,aspect ratio off,check if tight
+./labels/train/20250519_133603_411880_jpg.rf.1d761784a31002e0dd86bb3488d0f69a.txt,1,95,292,3.07,ok,ok,
+./labels/train/20250520_205032_158551_jpg.rf.f3fba59f161851fcbc71d15c6c6b4ed9.txt,1,67,295,4.38,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180933_290153_jpg.rf.deb7fceec98a2c0d41fa891d121f72ef.txt,1,42,163,3.88,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_180933_290153_jpg.rf.deb7fceec98a2c0d41fa891d121f72ef.txt,1,44,143,3.22,ok,ok,
+./labels/train/00h11m11s919ms_jpg.rf.8353a9e05038dd30c6fc26db0fe8e5d5.txt,1,42,151,3.56,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_181459_423616_jpg.rf.e682e8b3f581b20e99813905453b3d60.txt,1,45,220,4.85,moderate,aspect ratio off,check if tight
+./labels/train/000066_jpg.rf.3079c412ca4eaa2bccf3d870da6fdb7d.txt,1,56,176,3.12,ok,ok,
+./labels/train/00h09m10s559ms_jpg.rf.9690307fa56990369a338eb9fd0e673d.txt,1,28,130,4.64,moderate,aspect ratio off,check if tight
+./labels/train/00h07m56s559ms_jpg.rf.a298aa5cb13193a340ca23bf4c026b0b.txt,1,40,150,3.75,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_181503_268230_jpg.rf.2f1a02cc710c7f2238edd41aedcb9e63.txt,1,41,186,4.48,moderate,aspect ratio off,check if tight
+./labels/train/00h10m15s679ms_jpg.rf.26926bcb6f991053cb6abdcb241e8b7f.txt,1,30,137,4.58,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181140_429386_jpg.rf.cf5b10cfe2dad14165bd4dd494e8e2f4.txt,1,40,188,4.71,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205103_408724_jpg.rf.6bcf7bed10bd1ab2408b23ce1539f8df.txt,1,31,133,4.24,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205103_408724_jpg.rf.6bcf7bed10bd1ab2408b23ce1539f8df.txt,1,29,146,4.97,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181500_191081_jpg.rf.40320a2cd31754e1b4d7e6f86b1ed40d.txt,1,55,178,3.22,ok,ok,
+./labels/train/20250521_181524_749185_jpg.rf.a2f5e8e0dcc2394d20f93fdb869e0fa5.txt,1,44,147,3.34,ok,ok,
+./labels/train/00h11m17s839ms_jpg.rf.675c2af0a0bc946d1bb1b16054da2949.txt,1,36,157,4.36,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181500_321907_jpg.rf.719df2f2524d3c58c2223d43029214a3.txt,1,54,174,3.2,ok,ok,
+./labels/train/20250519_133612_242225_jpg.rf.e2e1f84b7fb72f3427b3afd8103444b9.txt,1,48,147,3.03,ok,ok,
+./labels/train/20250520_205104_455294_jpg.rf.15ee1561eddb7ad483fe5a56505b8301.txt,1,37,134,3.62,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250520_204826_324592_jpg.rf.c676eda754976aa36cd1cd36b8ae3f01.txt,1,60,168,2.8,ok,ok,
+./labels/train/20250520_205103_172879_jpg.rf.a3f59b0d712af336e1dc22f371419742.txt,1,37,135,3.65,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250520_205103_172879_jpg.rf.a3f59b0d712af336e1dc22f371419742.txt,1,32,152,4.75,moderate,aspect ratio off,check if tight
+./labels/train/20250519_133614_076798_jpg.rf.a766b5ba2ea9ce5e80cef7eb94b19add.txt,1,80,199,2.48,ok,ok,
+./labels/train/20250521_181141_721345_jpg.rf.e807db178a40f669458b4be7849fa40c.txt,1,59,208,3.53,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h11m03s039ms_jpg.rf.ff008d6e28f0d408c36129e17805859c.txt,1,26,124,4.7,moderate,aspect ratio off,check if tight
+./labels/train/00h11m14s879ms_jpg.rf.79377e679e8c119f5860aa1e6ee7cc39.txt,1,30,151,5.05,high,aspect ratio off,likely off - check manually
+./labels/train/20250519_133614_333334_jpg.rf.b4c71d597b9c5b4c36ad63235df7eb0a.txt,1,84,339,4.01,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205103_606751_jpg.rf.b5f19654d6375b6e7f27fdeaa2ec6bfa.txt,1,35,135,3.87,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250520_205103_606751_jpg.rf.b5f19654d6375b6e7f27fdeaa2ec6bfa.txt,1,35,152,4.3,moderate,aspect ratio off,check if tight
+./labels/train/20250515_013739_727956_jpg.rf.d8f225f9f6c9245e17aa8587b256f6ee.txt,1,39,122,3.14,ok,ok,
+./labels/train/20250515_013739_239465_jpg.rf.6e66092a70c72b0c4f71597269216277.txt,1,38,160,4.21,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205107_199252_jpg.rf.2ca299f23a232c30ee295a014f04bffd.txt,1,27,102,3.73,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250519_133613_684797_jpg.rf.0828188d90cad8cdcfead7a3dcbb997a.txt,1,82,143,1.74,ok,ok,
+./labels/train/20250520_205100_856131_jpg.rf.16b83ab6eb75ba64736a5fda4c553b8b.txt,1,29,147,4.98,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205100_856131_jpg.rf.16b83ab6eb75ba64736a5fda4c553b8b.txt,1,35,130,3.66,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_180855_228644_jpg.rf.942cede0f50a1e73f619c21462d907ac.txt,1,56,190,3.39,ok,ok,
+./labels/train/20250521_181139_809969_jpg.rf.6f0d6b2b2272b3bdde2ab7fbe147cca1.txt,1,40,186,4.6,moderate,aspect ratio off,check if tight
+./labels/train/00h09m28s319ms_jpg.rf.a2666d43204e85e9b39ef2b735077e7e.txt,1,25,128,5.12,high,aspect ratio off,likely off - check manually
+./labels/train/00h09m54s959ms_jpg.rf.29eda5af3350d09847772bd911a02851.txt,1,30,139,4.65,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205103_955956_jpg.rf.3d80a2788e4da4b8c1cf49064be9938e.txt,1,25,134,5.36,high,aspect ratio off,likely off - check manually
+./labels/train/20250520_205103_955956_jpg.rf.3d80a2788e4da4b8c1cf49064be9938e.txt,1,34,156,4.6,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181500_449625_jpg.rf.54de934926bd3c26c997ec3a10750e87.txt,1,46,179,3.86,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250518_232738_974691_jpg.rf.0dba4858c7811d506e5359e5b44ac180.txt,1,57,176,3.07,ok,ok,
+./labels/train/20250519_133611_980377_jpg.rf.cdb4f350702df741556abf1538edac54.txt,1,56,148,2.65,ok,ok,
+./labels/train/00h08m35s039ms_jpg.rf.e335acd959cab12ae4a6546bd3084d8a.txt,1,38,136,3.58,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250519_213259_444422_jpg.rf.85e449c5e7f1337481535acde83816cb.txt,1,75,256,3.39,ok,ok,
+./labels/train/20250521_180900_726852_jpg.rf.97de1511250e91439084b21a0280f1dd.txt,1,30,144,4.72,moderate,aspect ratio off,check if tight
+./labels/train/00h08m29s119ms_jpg.rf.6af03ecfe0c4636f0c3eba4e3b5dc111.txt,1,40,135,3.38,ok,ok,
+./labels/train/20250521_181456_744454_jpg.rf.415310236c8e9cf109efec92b40ac24c.txt,1,46,224,4.88,moderate,aspect ratio off,check if tight
+./labels/train/00h10m42s319ms_jpg.rf.71dfa7aaa15a58a0f55d5bdf558dac08.txt,1,36,119,3.31,ok,ok,
+./labels/train/00h09m37s199ms_jpg.rf.981a3af4526e6287bc0d2c56573f00ed.txt,1,29,122,4.22,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205107_489844_jpg.rf.f3684c145e40918d700ab645fe1d929a.txt,1,32,144,4.43,moderate,aspect ratio off,check if tight
+./labels/train/00h09m49s039ms_jpg.rf.c26f9ebef1d59fcbeee9f27737cac2bf.txt,1,33,139,4.21,moderate,aspect ratio off,check if tight
+./labels/train/00h10m48s239ms_jpg.rf.2ad50c45cc6731357952ed0a5498240d.txt,1,31,143,4.56,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180855_664658_jpg.rf.111bdc4190eb5dc95e8d01063b0e2d32.txt,1,44,160,3.64,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250519_133603_546418_jpg.rf.939d3e8c736202476001da799dcbbe46.txt,1,109,319,2.93,ok,ok,
+./labels/train/20250521_181141_017149_jpg.rf.fb1273dc4f21fbd13dce1e1a9a1b8f80.txt,1,42,186,4.43,moderate,aspect ratio off,check if tight
+./labels/train/00h05m43s359ms_jpg.rf.29fd02b75c3651ba8ff1de0a46c8faad.txt,1,37,157,4.19,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180855_091768_jpg.rf.52d7101be72aaae5add3dd9183d4f2ff.txt,1,68,195,2.87,ok,ok,
+./labels/train/20250520_205106_110102_jpg.rf.e4cdaf5924ae7e5880c555b895323b7e.txt,1,31,143,4.61,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205106_110102_jpg.rf.e4cdaf5924ae7e5880c555b895323b7e.txt,1,31,138,4.47,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205101_679614_jpg.rf.a6da5b0f025e777d25ddae06e1f1b414.txt,1,37,139,3.76,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h08m32s079ms_jpg.rf.9c5c81d723f5185fed85115f01b34a4d.txt,1,36,144,4.0,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h05m49s279ms_jpg.rf.019d87137b8b5e7d98dddcf79dee91bb.txt,1,37,160,4.32,moderate,aspect ratio off,check if tight
+./labels/train/20250520_204949_704691_jpg.rf.54c294df0b6d21fbaa325c32d191a4f7.txt,1,46,183,3.99,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_180858_195865_jpg.rf.061e70cfc14794e1d2afc6f5d2be3df3.txt,1,37,142,3.85,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h10m21s599ms_jpg.rf.b90fd2c34380375d57a1f40ff20f29a9.txt,1,37,138,3.68,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h09m16s479ms_jpg.rf.4607d1134dcb810f2447cd6bd470cf89.txt,1,30,135,4.5,moderate,aspect ratio off,check if tight
+./labels/train/00h03m00s559ms_jpg.rf.d247327c85006745b178360b5e78e957.txt,1,33,140,4.26,moderate,aspect ratio off,check if tight
+./labels/train/20250519_213301_402787_jpg.rf.a41c686111f79ab42d2d7aedb2b3255b.txt,1,47,116,2.47,ok,ok,
+./labels/train/20250521_181501_384204_jpg.rf.08cff4987b63ef1c95cadfbc9c3b875a.txt,1,73,258,3.54,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h09m40s159ms_jpg.rf.bc21670e25aeeb3e90bb49280b2e6634.txt,1,27,126,4.58,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205101_352714_jpg.rf.5a3e296b91f4aed05d3a5f281e6bc7ff.txt,1,36,149,4.15,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205104_823588_jpg.rf.8e2eba182063719fb4ed26eaeb36b68c.txt,1,39,163,4.18,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181459_568268_jpg.rf.e2637344e93260457bc2de1073e8a1c4.txt,1,50,210,4.21,moderate,aspect ratio off,check if tight
+./labels/train/20250520_204826_592022_jpg.rf.b8e0f49a6cf52327f54e3452b7ba1834.txt,1,68,276,4.06,moderate,aspect ratio off,check if tight
+./labels/train/00h08m55s759ms_jpg.rf.0fffd354ac771baa128427ff26555bbb.txt,1,29,135,4.66,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181500_578253_jpg.rf.f5a4f64eca5de356889fcde755d77bc7.txt,1,46,184,3.96,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h09m43s119ms_jpg.rf.f8d1e49fc9a6eef81ecccfd2144b405a.txt,1,26,127,4.79,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205100_353374_jpg.rf.d0a9df94e5c1c7b49a1f9609e0ed6cab.txt,1,31,147,4.67,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205100_353374_jpg.rf.d0a9df94e5c1c7b49a1f9609e0ed6cab.txt,1,38,158,4.12,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181459_762038_jpg.rf.926106631fd4c8e06909a46dbdfa5e8e.txt,1,46,204,4.39,moderate,aspect ratio off,check if tight
+./labels/train/20250519_133613_815423_jpg.rf.57d72a4b1594262e708718d7d50cc3fc.txt,1,41,173,4.22,moderate,aspect ratio off,check if tight
+./labels/train/20250519_213300_100813_jpg.rf.12d254683eaa27f011be0ef74adf065a.txt,1,61,241,3.95,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250518_214303_329004_jpg.rf.18a2dd069328129b0d4c7c1fa8a066ad.txt,1,47,153,3.23,ok,ok,
+./labels/train/20250521_181524_884963_jpg.rf.a554ea3bce8a513fe71a4b3e07c9934a.txt,1,54,150,2.78,ok,ok,
+./labels/train/20250520_204826_456846_jpg.rf.80db63f1c70ce09e4c4c7297eb5b78f0.txt,1,48,159,3.32,ok,ok,
+./labels/train/20250520_204721_352631_jpg.rf.4ddf8f4a67f7ba484de268acb310f827.txt,1,55,175,3.16,ok,ok,
+./labels/train/20250520_205107_635269_jpg.rf.aa0d4459b23cb99191cb8a3272ece3b8.txt,1,35,165,4.65,moderate,aspect ratio off,check if tight
+./labels/train/00h02m54s639ms_jpg.rf.1b5dc8bdb4537d17ad08185c9a45a961.txt,1,34,152,4.47,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181502_881975_jpg.rf.62362eef4654ee97f77703de00b5ee13.txt,1,74,205,2.78,ok,ok,
+./labels/train/20250521_181459_913038_jpg.rf.dfe8f08615a50dafeac6f631a9d01d18.txt,1,54,190,3.52,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_181457_259207_jpg.rf.392a8f071d3a1a4986f07d9e60fb88b7.txt,1,44,204,4.6,moderate,aspect ratio off,check if tight
+./labels/train/00h05m19s679ms_jpg.rf.188ec506c9f3a5d35e8679af197dcfb3.txt,1,29,141,4.86,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180858_995190_jpg.rf.ed7d5a11a287760b985f6e1502c73ba3.txt,1,34,150,4.35,moderate,aspect ratio off,check if tight
+./labels/train/00h05m34s479ms_jpg.rf.f1cab6563420a3b2d5d6306ebc5442c6.txt,1,34,148,4.37,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180858_473707_jpg.rf.a615b7fa15c54f33d2bec4230cc24056.txt,1,27,132,4.82,moderate,aspect ratio off,check if tight
+./labels/train/00h10m27s519ms_jpg.rf.3a782d1bf6efa2fca21e565ae55767ee.txt,1,36,141,3.86,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_181502_215673_jpg.rf.fb61bc48643ab6b2befbe308f363a23e.txt,1,72,227,3.14,ok,ok,
+./labels/train/00h11m20s799ms_jpg.rf.5b5611d885b419bcb48218e5c2dc23e5.txt,1,36,136,3.78,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250520_205105_003682_jpg.rf.c0e8a34536885b933b058be72833c54e.txt,1,31,132,4.26,moderate,aspect ratio off,check if tight
+./labels/train/00h05m31s519ms_jpg.rf.0e1cef63c6b8c3cb4664600d409eb758.txt,1,33,152,4.61,moderate,aspect ratio off,check if tight
+./labels/train/00h09m46s079ms_jpg.rf.e47269814fc80326e504ff7764180a99.txt,1,27,129,4.8,moderate,aspect ratio off,check if tight
+./labels/train/20250515_013753_681930_jpg.rf.5f4d75bc32f1fddcd6b5320fbc49f4d7.txt,1,45,165,3.63,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250515_013753_681930_jpg.rf.5f4d75bc32f1fddcd6b5320fbc49f4d7.txt,1,50,205,4.11,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180932_826522_jpg.rf.438bafce9c36cfac54ab3bb1aaa014c9.txt,1,27,133,4.84,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180932_826522_jpg.rf.438bafce9c36cfac54ab3bb1aaa014c9.txt,1,24,118,4.92,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180858_606991_jpg.rf.b63ec27c56db7a82313b87657584d501.txt,1,29,126,4.29,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205100_023020_jpg.rf.e2b0547cc7bfe5e5b476ac67a128d325.txt,1,44,153,3.44,ok,ok,
+./labels/train/20250520_205100_023020_jpg.rf.e2b0547cc7bfe5e5b476ac67a128d325.txt,1,32,146,4.51,moderate,aspect ratio off,check if tight
+./labels/train/00h05m52s239ms_jpg.rf.b0ee7d89fe96e2299807523aaeda3759.txt,1,42,161,3.83,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h07m59s519ms_jpg.rf.7be125646fd9dee403d837c7e9f69776.txt,1,36,145,4.04,moderate,aspect ratio off,check if tight
+./labels/train/00h05m55s199ms_jpg.rf.50b72b97a0009c1abbd940ebad720e7a.txt,1,29,139,4.71,moderate,aspect ratio off,check if tight
+./labels/train/20250521_181502_611420_jpg.rf.7833dac8a25ec72d90add4bd7e311f24.txt,1,76,215,2.81,ok,ok,
+./labels/train/20250519_213259_273452_jpg.rf.336af48de72135a372c50e61d5a0dce1.txt,1,65,220,3.38,ok,ok,
+./labels/train/20250521_181456_921926_jpg.rf.a1bf2b1cc7ef2706a59b6d1f32fdc369.txt,1,55,216,3.89,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250520_205059_635003_jpg.rf.643fc9874b35478858c18e87ef509f00.txt,1,32,146,4.58,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205059_635003_jpg.rf.643fc9874b35478858c18e87ef509f00.txt,1,43,144,3.36,ok,ok,
+./labels/train/00h09m07s599ms_jpg.rf.761b03705110212426aafb6c43f061e3.txt,1,31,130,4.19,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205101_515793_jpg.rf.56e25b16738a275fa8776d252abba28f.txt,1,46,150,3.24,ok,ok,
+./labels/train/20250520_205101_515793_jpg.rf.56e25b16738a275fa8776d252abba28f.txt,1,41,118,2.86,ok,ok,
+./labels/train/20250520_205101_515793_jpg.rf.56e25b16738a275fa8776d252abba28f.txt,1,31,147,4.74,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180900_203543_jpg.rf.04b69038f21fb68281c97b3dcce8bcc1.txt,1,37,141,3.82,borderline,aspect ratio off,likely okay - verify
+./labels/train/00h10m00s879ms_jpg.rf.624ef54c26291b28eb3c7bf234a7fa24.txt,1,28,128,4.57,moderate,aspect ratio off,check if tight
+./labels/train/00h10m09s759ms_jpg.rf.4b8b7dd248e7162a456b5aa36042a608.txt,1,31,129,4.18,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180859_389010_jpg.rf.974bf500950f2415e8023ae7b9500d70.txt,1,34,139,4.03,moderate,aspect ratio off,check if tight
+./labels/train/20250521_180859_969156_jpg.rf.5d7f50c3fb4a0665668fc130466a955f.txt,1,37,130,3.51,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250519_133613_552862_jpg.rf.03a4e96266bcca2af2044c2c8ea2fc23.txt,1,33,121,3.63,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_181501_686556_jpg.rf.f8d9f4c46d3f89c47c409518430d19e4.txt,1,75,246,3.29,ok,ok,
+./labels/train/00h09m19s439ms_jpg.rf.c0fabb9afc4fe95ddc2b52ec3597f6ea.txt,1,29,135,4.66,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205059_846809_jpg.rf.42b31cfd9077ec726663e57bb20bf047.txt,1,32,147,4.59,moderate,aspect ratio off,check if tight
+./labels/train/20250520_205059_846809_jpg.rf.42b31cfd9077ec726663e57bb20bf047.txt,1,51,146,2.86,ok,ok,
+./labels/train/20250519_133612_109982_jpg.rf.ff9e1667ed133c2b50b4761cc17f6b34.txt,1,38,148,3.89,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250521_181501_826282_jpg.rf.e1518accd7077a76448f536d954cc5cf.txt,1,66,247,3.75,borderline,aspect ratio off,likely okay - verify
+./labels/train/20250520_205101_846921_jpg.rf.1b38e3cccb937ffeb277a8a6e701c3bc.txt,1,42,142,3.38,ok,ok,
+./labels/train/20250520_205101_846921_jpg.rf.1b38e3cccb937ffeb277a8a6e701c3bc.txt,1,35,151,4.31,moderate,aspect ratio off,check if tight
